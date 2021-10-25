@@ -26,7 +26,7 @@ You will need to set up authentication and authorization to read and write in yo
 ### Run the python script
 Add some matches to the matches worksheet and run the python script.
 
-`> python matches.py`
+`> python match.py`
 
 The ranking sheet should now be updated with a sorted list of players with a number of stats.
 - ELO: the number used to determine the rank
